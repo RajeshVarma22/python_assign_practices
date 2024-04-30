@@ -1,0 +1,16 @@
+Start
+a = Input array from user
+n = length of an array
+Loop i from 0 to n - 1 
+    InnerLoop j from 0 to n-i
+        condition to check if the element at J index is greater than the index  j + 1
+        if a[j] > a[j+1]
+            swap
+    End Loop
+End Loop 
+print(a)
+End
+
+
+
+

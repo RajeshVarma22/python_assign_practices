@@ -1,0 +1,26 @@
+Task 1 : Pseudocode deelopment
+Write a detailed pseudocode for a simple program that takes a number as input, calculates the square if it's even or the cube if it's odd, and then outputs the result. 
+Incorporate conditional and looping constructs.
+
+
+Start
+num = give a number
+Condition to check whether it is an odd or even
+If num % 2 equals to 0 then
+    numSquare = 1
+    
+    for i from 0 to 2:
+        numSquare *= num
+    loop end
+
+    print numSquare
+Else
+    numCube = 1
+
+    for i from 0 to 3:
+        numSquare *= num
+    loop end
+
+    print numCube
+End
+

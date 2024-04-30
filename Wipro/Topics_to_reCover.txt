@@ -1,0 +1,17 @@
+classes -->
+two types of attributes 
+1. Class attributes (created in the classes)
+2. Object attributes (created with the help of Object)
+
+Topics to cover
+1) Decorator @classmethod
+ def model(cls):
+    return 2020
+
+2) Dynamic programming
+
+3) exception
+
+4) raise in exception
+
+5) 
